@@ -1,0 +1,130 @@
+﻿body
+{
+}
+
+.admin-login
+{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: White;
+	background-color: black;
+	text-align: center;
+	height: 22px;
+}
+.admin-login-bottom-bg
+{
+	background-color: black;
+	height: 12px;
+}
+txt-field-bdr
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: #FFFFFF;
+	padding-left: 5px;
+	border: 1px solid #BFBDBD;
+	padding-bottom: 5px;
+}
+.error-msg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: red;
+}
+.user-name
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	padding-bottom: 10px;
+	color: black;
+}
+.table-padding
+{
+	padding-left: 400px;
+	padding-right: 200px;
+	padding-bottom: 200px;
+	padding-top: 200px;
+}
+.left-links-txt
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight: bold;
+	color: Gray;
+	text-decoration: none;
+	padding-left: 18px;
+	padding-top: 10px;
+}
+.left-links
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color: gray;
+	text-decoration: underline;
+}
+.link-table-bdr
+{
+	border-top: 1px solid gray;
+	border-right: 1px solid gray;
+	border-bottom: 1px solid gray;
+	border-left: 1px solid gray;
+}
+.tablecell
+{
+	border-color: #83BEF6;
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+}
+.tablecell td
+{
+	border-width: 1px 1px 1px 1px;
+	border-style: solid;
+	border-color: black;
+	padding:3px 3px 3px 3px;
+	
+}
+.name-table-heading
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold;
+	background-color:Black;
+	color:White;
+	text-align:center;
+}
+.e_msg
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	font-weight:bold; 
+	color:red;
+}
+.action-links
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; 
+	color:black;	
+}
+.action-links-deleted
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:black;
+	
+}
+.name
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px; 
+	color:black;	
+	text-align:center;
+}
+.action-links-heading
+{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	color:black;
+	font-weight:bold;
+	
+}
